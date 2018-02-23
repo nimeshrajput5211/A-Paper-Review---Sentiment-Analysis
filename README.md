@@ -1,0 +1,2 @@
+# A-Paper-Review---Sentiment-Analysis
+A Paper Reviews -  A sentiment analysis. It was a Natural Language Processing project. The dataset consist of paper reviews sent to an international conference mostly reviews are in spanish and some are in english. All instances evaluated with a 5-point scale like: Positive, Highly Positive, Negative, Highly Negative and Neutral. I have applied multiple machine learning model such as: Logistic Regression, Naive Bayes and SVM.
